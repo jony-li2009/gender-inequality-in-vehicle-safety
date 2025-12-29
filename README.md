@@ -20,7 +20,7 @@ This work investigates whether gender acts as an independent risk factor or inte
 
 ## Data
 **Plain language:**  
-The study uses real traffic crash records collected across the United States, including information about drivers, vehicles, and crash outcomes.
+The study uses real traffic crash records collected across the United States, including information about drivers, vehicles, and crash outcomes, which can be downloaded from [National Highway Traffic Safety Administration](https://www.nhtsa.gov/crash-data-systems/crash-report-sampling-system).
 
 **Technical:**  
 The dataset includes:
