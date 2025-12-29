@@ -72,4 +72,4 @@ All figures from the paper are included in this repository.
 
 Example:
 ```md
-![Fatality Risk by Gender](asset/pic/fatality_risk_gender.png)
+![Fatality Risk by Gender](asset/pic/risk_model.png)
