@@ -70,6 +70,11 @@ We clean the data, compare crash outcomes between groups, and use mathematical m
 ## Figures
 All figures from the paper are included in this repository.
 
+Conditions
+
+<img src="asset/pic/injury_day.png" alt="day" height="200"/> <img src="asset/pic/injury_hour.png" alt="day" height="200"/>
+
+
 The following figures show major injury risk over ages using Logistic Regression method. It clearly shows that compared to male, female has around 35% more likely injured severely if non-fatal major injury happened in a crash. Overall, the vehicle safety system has better protection over male than the female.
 
 ![Fatality Risk by Gender](asset/pic/risk_age.png)
